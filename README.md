@@ -95,8 +95,4 @@ Each record includes:
 ## 👩‍💻 Author
 **Ishwari Kakade**  
 Lead Developer & Researcher — *AI-Driven Sentiment Analysis on Company Reviews*  
-📧 [Your Email Here]
 
----
-
-⭐ *If you find this project useful, feel free to star the repo and contribute!*
